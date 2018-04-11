@@ -1,1 +1,0 @@
-# Freenove_Three-wheeled_Smart_Car_Kit_for_Raspberry_Pi
